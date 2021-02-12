@@ -6,7 +6,7 @@
     <section class="section">
         <div class="container">
             <div class="row">
-                <h4 class="section-heading">Properties</h4>
+                <h4 class="section-heading">Properties List</h4>
             </div>
 
             <div class="row">
